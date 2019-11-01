@@ -1,0 +1,20 @@
+title: Ivan Mwiruki
+url: https://ivanmwiruki.github.io/
+author:
+  name: Ivan Mwiruki
+
+google_analytics: UA—XXXXXXXX-X
+
+include:
+  - _pages
+
+sass:
+  style: compressed
+
+permalink: /:year-:month-:day/:title
+paginate: 5
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
