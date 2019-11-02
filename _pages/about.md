@@ -11,7 +11,7 @@ I am a software engineer at Amazon Web Services. I currently work on [Quantum Le
 
 I love to build clean and simple systems. Systems that solve the right problems.
 
-I'm heavily self taught. I have an acute thirst for learning. I'm also a graduate of [Year Up](https://www.yearup.org) -- 
+I am heavily self taught. I have an acute thirst for learning. I am also a graduate of [Year Up](https://www.yearup.org) -- 
 a one year tech boot camp -- and Amazon Technical Academy -- a one year software engineering immersive.
 
 - My complete resume: [LinkedIn](https://www.linkedin.com/in/ivanmwiruki/)
