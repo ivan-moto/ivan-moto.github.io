@@ -111,7 +111,7 @@ same fundamental ideas, you can take those lessons into solving bigger problems.
 
 ## Breathe
 
-Learn to be in a state of relaxed concentration. Breathe deeply. Relax. 
+Learn to be in a state of relaxed concentration. Breathe.
 
 From [The Power of Now](https://amzn.to/2PEtN2D) by Eckhart Tolle:
 
@@ -120,7 +120,7 @@ From [The Power of Now](https://amzn.to/2PEtN2D) by Eckhart Tolle:
   
 ## Have fun!
 
-Remember to have fun. Building software and solving problems is a joy. So relax and enjoy the journey.
+Remember to have fun. Building software and solving problems is a joy. Relax and enjoy the journey.
 
 From [Arithmetic](https://amzn.to/2NCe8hI) by Paul Lockhart:
 
