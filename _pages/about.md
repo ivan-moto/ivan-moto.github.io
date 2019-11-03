@@ -9,7 +9,7 @@ This website is a collection of my writings.
 
 I'm a software engineer at Amazon Web Services. I currently work on [Quantum Ledger Database](https://aws.amazon.com/qldb/).
 
-I love to build clean and simple systems -- systems that solve the right problems.
+I love building clean and simple systems -- systems that solve the right problems.
 
 I'm heavily self taught. I have an acute thirst for learning. I'm also a graduate of [Year Up](https://www.yearup.org/) -- 
 a one year tech boot camp -- and Amazon Technical Academy -- a one year software engineering immersive.
