@@ -1,4 +1,4 @@
-# ivanMwiruki.github.io
+# https://ivan.mw/
 
 My personal website: https://ivan.mw/
 
