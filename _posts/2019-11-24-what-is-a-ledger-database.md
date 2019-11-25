@@ -9,18 +9,18 @@ I have diagrams later that help illustrate its structure and purpose.
 
 # Some context
 
-Let's start with some context. This is an introduction to the ideas behind a ledger database.
-
-I work on AWS Quantum Ledger Database (QLDB). QLDB is the first, and currently only, commercially available ledger database.
+Let's start with some context. I work on AWS Quantum Ledger Database (QLDB). QLDB is the first, and currently only, commercially available ledger database.
 This document does not represent AWS's official definition of a ledger database. This is my own mental model.
 This document will also not be a QLDB tutorial. I will talk about the abstract concept of a ledger database, of which QLDB is one
 implementation. 
+
+This is an introduction to the ideas behind a ledger database.
 
 # A non ledger database
 
 Let's start by looking at typical interactions with a non ledger database.
 
-I created a database with an Orders table. The Orders table stores order ID and order status. i
+I created a database with an Orders table. The Orders table stores order ID and order status.
 
 I receive a new order.
 
