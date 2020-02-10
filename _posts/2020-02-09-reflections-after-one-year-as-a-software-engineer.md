@@ -50,7 +50,8 @@ Being a software engineer changed my life and my lifestyle. I can afford to take
 travel. I see the world through the lens of systems thinking.
 
 And I learned so much. I can't put into words how much I learned. About engineering, distributed systems, working on
-a team, communication, the JVM, the terminal, AWS, deployments, programming, writing, reading, learning, mentorship, and so much more.
+a team, communication, the JVM, the terminal, AWS, deployments, programming, writing, reading, learning, mentorship, how
+capable I am, and so much more.
 
 Out of everything I learned, here are three major takeaways.
 
