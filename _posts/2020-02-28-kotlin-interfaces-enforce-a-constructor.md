@@ -38,8 +38,9 @@ fun main() {
 }
 
 interface DataSource {
-
-    operator fun invoke(): DataSource // Now implementer must have a no arg "constructor"
+    
+    // Now implementer must have a no arg "constructor"
+    operator fun invoke(): DataSource
 }
 
 class NoOpDataSource : DataSource {
@@ -48,17 +49,17 @@ class NoOpDataSource : DataSource {
 }
 ```
 
-Strictly speaking, this is not a constructor, it's a function.
+Strictly speaking, `invoke` is not a constructor, it's a function.
 
 In Kotlin, we have [operator overloading](https://kotlinlang.org/docs/reference/operator-overloading.html). We can implement
 certain operators (such as + or == or >) on our types through regular functions (such as `operator fun plus(other: T): T` for +).
 
-It just so happens that `()` is an operator than we can overload, using the `operator` keyword and `invoke` function
+It just so happens that `()` is an operator that we can overload, using the `operator` keyword and `invoke` function
 name.
 
-Given that `invoke` is a regular function, we can go even further and require certain parameters. Or even `suspend` it.
+Given that `invoke` is a regular function, we can go even further and require certain parameters, or even `suspend` it.
 
 <hr>
 
 If you're interested in learning more Kotlin tips and tricks, I created a collection of Kotlin snippets that you can read
-and understand in 30 seconds: https://github.com/IvanMwiruki/30-seconds-of-kotlin
+and understand in 30 seconds: [https://github.com/IvanMwiruki/30-seconds-of-kotlin](https://github.com/IvanMwiruki/30-seconds-of-kotlin)
