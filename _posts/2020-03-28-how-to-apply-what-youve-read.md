@@ -5,9 +5,9 @@ title: "How to apply what you've read"
 I don't apply enough of what I read. Here's some advice to myself to help fix that. Maybe you can use it too.
 
 I love learning. Consequently, I love reading. I'm always working through some book, usually a technical, non-fiction one. 
-The point of these books is to acquire knowledge and then apply it. I'm proficient at the former, but lacking in the latter. 
+The point of these books is to acquire knowledge and then apply it. I feel proficient at the former, but inadequate in the latter. 
 
-I've been thinking about how I can get better at using what I've read. Here's what I intend to do:
+I've been thinking about how I can get better at using what I've read. Here's what I intend to do.
 
 ## Read slower
 
@@ -16,7 +16,7 @@ not the answer. It's ok to slow down and enjoy reading each book. This helps me 
 retain it.
 
 One practical example of reading slower is working through a book's exercises and questions. I often skip over these and 
-just read the content. Just doing the exercises and questions already forces me to apply what I've read.
+only read the content. Just doing the exercises and questions already forces me to apply what I've read.
 
 ## Apply what I'm reading, not what I've read
 
