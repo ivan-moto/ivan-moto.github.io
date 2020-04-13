@@ -47,4 +47,5 @@ and more thorough feedback. And if you're headed in a bad direction, you'll find
 In the end, it promotes progress. You either have to make headway on your project and get something out today, or abandon
 the project for now.
 
+I've been practicing this goal for a few months now. It's led me to more decisive action and clear objectives. 
 So here's my challenge to you, ship something today.
